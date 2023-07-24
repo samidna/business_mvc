@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "etFCz/XrwB/IKE3FK6Dt8lM+B8MQqCXaKTE+RTfNBBM=",
+  "Source": "Business",
+  "BasePath": "_content/Business",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Business\\wwwroot",
+      "Source": "Business",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\",
+      "BasePath": "_content/Business",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\",
+      "BasePath": "_content/Business",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\css\\styles.css",
+      "SourceId": "Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\",
+      "BasePath": "_content/Business",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\js\\scripts.js",
+      "SourceId": "Business",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\P137\\Business\\wwwroot\\",
+      "BasePath": "_content/Business",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}
